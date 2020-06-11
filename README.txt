@@ -26,4 +26,4 @@ If the attack and the health strip are high and the opponent will win
 The other way round is defeat
 Other cases have different probabilities of winning
 HP < = 0 LOSE
-Defeat all enemies WIN
+Defeat all enemies and Go To The Room J WIN
