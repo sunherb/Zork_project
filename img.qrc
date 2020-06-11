@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/hero.jpg</file>
+        <file>img/AP.png</file>
+    </qresource>
+    <qresource prefix="/new/zb">
+        <file>img/zb1.jpg</file>
+        <file>img/zb2.jpg</file>
+        <file>img/zb4.jpg</file>
+        <file>img/zb7.jpg</file>
+        <file>img/zb9.jpg</file>
+        <file>img/zb10.jpg</file>
+        <file>img/zb11.jpg</file>
+        <file>img/zb12.jpg</file>
+        <file>img/zb3.jpeg</file>
+        <file>img/zb5.jpeg</file>
+        <file>img/zb6.jpeg</file>
+        <file>img/zb8.jpeg</file>
+    </qresource>
+    <qresource prefix="/new/gw">
+        <file>img/g2.jpg</file>
+        <file>img/g4.jpg</file>
+        <file>img/g5.jpg</file>
+        <file>img/g6.jpg</file>
+        <file>img/g8.jpg</file>
+        <file>img/g1.jpg</file>
+        <file>img/g3.jpeg</file>
+        <file>img/g7.jpeg</file>
+        <file>img/g9.png</file>
+        <file>img/g10.jpg</file>
+        <file>img/g11.jpeg</file>
+        <file>img/g12.jpeg</file>
+        <file>img/g13.jpeg</file>
+        <file>img/g14.jpeg</file>
+    </qresource>
+    <qresource prefix="/new/bg">
+        <file>img/bg1.jpg</file>
+    </qresource>
+</RCC>
